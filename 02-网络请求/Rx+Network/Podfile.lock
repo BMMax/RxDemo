@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.5.1)
+  - GzipSwift (4.0.0)
+  - Moya/Core (9.0.0):
+    - Alamofire (~> 4.1)
+    - Result (~> 3.0)
+  - Moya/RxSwift (9.0.0):
+    - Moya/Core
+    - RxSwift (~> 3.3)
+  - NSObject+Rx (3.0.0):
+    - RxSwift (~> 3.0)
+  - ObjectMapper (3.0.0)
+  - Result (3.2.4)
+  - RxCocoa (3.6.1):
+    - RxSwift (~> 3.6)
+  - RxSwift (3.6.1)
+
+DEPENDENCIES:
+  - GzipSwift
+  - Moya/RxSwift
+  - NSObject+Rx
+  - ObjectMapper
+  - RxCocoa
+  - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  GzipSwift: 1aab4a3d3b2f2509f78c7405bbaf535184ac6c7f
+  Moya: cf5e6ee93af526532f92614004b8ad2ea60fd845
+  NSObject+Rx: 9c60a6e602ca647c0b2b34403383c305b1c6edc5
+  ObjectMapper: 92230db59bf8f341a5c3a3cf0b9fbdde3cf0d87f
+  Result: d2d07204ce72856f1fd9130bbe42c35a7b0fea10
+  RxCocoa: 84a08739ab186248c7f31ce4ee92d6f8a947d690
+  RxSwift: f9de85ea20cd2f7716ee5409fc13523dc638e4e4
+
+PODFILE CHECKSUM: af376e7822c1fbb8024797d2826661055fe1dc1b
+
+COCOAPODS: 1.2.0
