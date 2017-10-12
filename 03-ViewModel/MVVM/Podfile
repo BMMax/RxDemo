@@ -1,0 +1,8 @@
+platform :ios, '9.0'
+use_frameworks!
+target 'MVVM' do
+pod 'RxSwift'
+pod 'RxCocoa'
+pod 'NSObject+Rx'
+end
+
